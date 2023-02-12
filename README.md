@@ -4,8 +4,8 @@
 
 The task was to analize all the reviews written by members of the paid Amazon Vine program, specifically for beauty products, to determine if there is any bias toward positive reviews from Vine participants in the dataset. 
 
-Tools: AWS RDS, PySpark, pgAdmin, Google Colab
-Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Beauty_v1_00.tsv.gz
+-Tools: AWS RDS, PySpark, pgAdmin, Google Colab
+-Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Beauty_v1_00.tsv.gz
 
 ## Results
 
